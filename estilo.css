@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
 
 }
 .colarnotop{
@@ -7,3 +8,7 @@ body {
 .colarnobottom{
     margin-top: 100%;
 }
+=======
+   background:black;
+}
+>>>>>>> refs/heads/master
